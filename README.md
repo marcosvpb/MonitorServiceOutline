@@ -1,1 +1,1 @@
-powershell -ExecutionPolicy Bypass -File .\MarcosServicesDashboard.ps1
+powershell -ExecutionPolicy Bypass -File .\ServicesDashboard.ps1
